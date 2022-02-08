@@ -2,5 +2,5 @@
 Repo for every course that I made on youtube
 
 Course 1 referrence:
-https://pytorch.org/tutorials/
-https://www.pytorchlightning.ai/tutorials
+1. https://pytorch.org/tutorials/
+2. https://www.pytorchlightning.ai/tutorials
